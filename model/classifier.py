@@ -3,7 +3,7 @@ from transformers import AutoTokenizer, AutoModelForSequenceClassification
 import torch.nn.functional as F
 
 # Load model and tokenizer (only once)
-model_name = "saved_model/reviewlens-bert-model"
+model_name = "smihira/reviewlens/reviewlens-bert-model"
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModelForSequenceClassification.from_pretrained(model_name)
 model.eval()
