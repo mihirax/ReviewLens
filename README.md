@@ -1,7 +1,7 @@
 
 # ReviewLens — Review-to-Product Optimization Engine
 
-**ReviewLens** is an end-to-end intelligent review analysis system that transforms unstructured app or product reviews into structured, actionable insights. It goes beyond sentiment analysis by automatically identifying user intent, extracting keyphrases, scoring urgency, and recommending team assignments. Designed for product managers, engineers, and QA teams.
+**ReviewLens** is an end-to-end intelligent review analysis system that transforms unstructured app or product reviews into structured, actionable insights. It goes beyond sentiment analysis by automatically identifying user intent, extracting keyphrases, scoring urgency, and recommending team assignments. 
 
 ---
 
@@ -131,7 +131,7 @@ streamlit run app/dashboard.py
 * Urgency scoring to prioritize user issues
 * Integration with PostgreSQL for persistent storage
 * FastAPI backend for modular access
-* Streamlit-based UI for real-time insights (in development)
+* Streamlit-based UI 
 
 ---
 
@@ -148,24 +148,10 @@ Performance on a labeled dataset (3-class classification):
 
 ---
 
-## Dashboard Plan
-
-The upcoming dashboard will include:
-
-* Issue frequency charts (bug vs feature vs praise)
-* Urgency vs frequency bubble chart
-* App-wise issue distribution
-* Keyphrase clusters and filtering
-* CSV export of auto-generated action items
-* Team assignment indicators (Product / QA / Engineering)
-
----
-
 ## Acknowledgments
 
 * HuggingFace Transformers
 * KeyBERT for keyword extraction
-* VADER Sentiment Analysis
 * FastAPI
 * PostgreSQL
 * Streamlit
