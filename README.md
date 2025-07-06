@@ -1,6 +1,3 @@
-Got it! Here's your **professional `README.md` for ReviewLens** without emojis, using a clean and formal tone:
-
----
 
 # ReviewLens — Review-to-Product Optimization Engine
 
