@@ -2,3 +2,15 @@
 venv/
 # Ignore Python bytecode files
 __pycache__/
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# Ignore log files
+*.log
+# Ignore configuration files
+*.cfg
+# Ignore temporary files
+*.tmp
+# Ignore coverage reports
+*.coverage
+# Ignore build directories
+saved_model/
