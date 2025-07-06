@@ -1,0 +1,12 @@
+App,Review,Label,Confidence,Urgency,Keyphrases
+Facebook,The app is nice but i would prefer a better interface.,praise,0.9736706614494324,0.325,"app, interface, prefer, better, nice"
+App,Review,Label,Confidence,Urgency,Keyphrases
+Facebook,The app is nice but i would prefer a better feature.,feature,0.9987474679946899,0.325,"app, feature, prefer, nice, better"
+App,Review,Label,Confidence,Urgency,Keyphrases
+Facebook,My app is not working please fix it,feature,0.9953765869140625,0.325,"app, fix, working"
+App,Review,Label,Confidence,Urgency,Keyphrases
+Facebook,My app is not working please fix it immeadiately,feature,0.9957192540168762,0.325,"app, fix, immeadiately, working"
+App,Review,Label,Confidence,Urgency,Keyphrases
+Facebook,My app is crashing whenever i open the camera,bug,0.9990647435188293,0.325,"crashing, camera, app, open"
+App,Review,Label,Confidence,Urgency,Keyphrases
+Facebook,The app takes forever to load. Please fix performance issues.,bug,0.9993587136268616,0.325,"app, load, performance, issues, fix"
